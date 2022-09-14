@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debi Usifo</h1>
+<h1 align="center">Hi 👋, I'm Debi </h1>
 <h3 align="center">A passionate frontend developer in training from Lagos, Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/debiusifo" target="blank"><img src="https://img.shields.io/twitter/follow/debiusifo?logo=twitter&style=for-the-badge" alt="debiusifo" /></a> </p>
